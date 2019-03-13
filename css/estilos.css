@@ -1,0 +1,23 @@
+
+/* -----------------------------------
+Definiciónes comunes y condiciónes.
+-------------------------------------- */
+html { font-size: 18px; }
+body { color: #666c71!important; }
+@media( min-width: 768px ) { html { font-size: 20px; } } /* Al cumplirse la condición. */
+/* -----------------------------------
+Alterando los estilos de Bootstrap.
+-------------------------------------- */
+.bg-dark { background-color: #343a40d6!important; }
+.bg-primary { background-color: #ff401c!important; }
+.text-primary { color: #ff401c85!important; }
+.card { min-height: 100%!important; }
+/* -----------------------------------
+¡Alterando sólo para hacer pruebas!.
+--------------------------------------
+.container { border: 1px solid red; }
+.row { border: 1px solid blue; }
+row>* { border: 1px solid green; } 
+a { border: 1px solid red; } 
+.servicios { height: 150px; border: 1px solid green; } 
+.servicios>* { border: 1px solid red; } */
