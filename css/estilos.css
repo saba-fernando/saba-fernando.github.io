@@ -2,8 +2,8 @@
 /* -----------------------------------
 Definiciónes comunes y condiciónes.
 -------------------------------------- */
-html { font-size: 18px; }
-body { color: #666c71!important; }
+html { font-size: 18px;}
+body { color: #666c71!important; font-family: 'Amiko', sans-serif; }
 @media( min-width: 768px ) { html { font-size: 20px; } } /* Al cumplirse la condición. */
 /* -----------------------------------
 Alterando los estilos de Bootstrap.
